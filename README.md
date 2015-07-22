@@ -8,6 +8,6 @@ A bot who welcomes all newcomer in a telegram group and you can ask it about the
 4. Votingsystem to get the best questions to the top.
 
 ## Contact
-- Feel free to join the support chat for python-telegram-bot  [Link](https://telegram.me/joinchat/00b9c0f802509b949c1563d56eb053b0 "Link")
+- Feel free to join the support chat for the python-telegram-bot  [Link](https://telegram.me/joinchat/00b9c0f802509b949c1563d56eb053b0 "Link")
 - Idea - [Avanatiker](https://github.com/Avanatiker "Avanatiker")
 - Support - [leandrotoledo](https://github.com/leandrotoledo "leandrotoledo")
