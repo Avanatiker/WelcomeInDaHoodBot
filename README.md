@@ -3,7 +3,7 @@ A bot who welcomes all newcomer in a telegram group and you can ask it about the
 
 ## Idea:
 1. Welcomes all newcomer in the telegram group with a message
-2. You can find the fequently asked questions by typing [/faq](https://github.com/Avanatiker/WelcomeInDaHoodBot/# "/faq")
+2. You can find the fequently asked questions by typing /faq
 3. Communication through a custom keyboard
 4. Votingsystem to get the best questions to the top.
 
