@@ -7,7 +7,7 @@ import logging
 from time import sleep
 from ConfigParser import SafeConfigParser
 
-bot = telegram.Bot('102646088:AAEriY1E1QaR2DmQaJH2zyV5yF5xEwIH7DY')
+bot = telegram.Bot('XXX')
 chat_id = 0
 lang = 'en'
 
